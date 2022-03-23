@@ -1,5 +1,5 @@
 # extract-myreact
-Extracting react native app source code from apk file. 
+Extracting React Native app source code from apk file. 
 
 ## Usage
 
@@ -18,6 +18,10 @@ OPTIONS:
     -V, --version        Print version information
 
 ```
+
+## TODO 
+
+- [ ] Beautify js file that still hangs for minified file. https://github.com/dprint/dprint-plugin-typescript/issues/129
 
 ## LICENSE
 
